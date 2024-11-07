@@ -6,7 +6,7 @@ const display = document.getElementById("display");
 const operationDisplay = document.getElementById("operation-display");
 
 // Carregar o som de bip
-let beep = new Audio("sounds/beep.mp3");
+let beep = new Audio("https://github.com/LucasLins18/calculadora/blob/645944f73f5d6fad2f6d4b29560530e46bcd5b0b/sounds/beep.mp3");
 
 // Função para atualizar o display
 function updateDisplay() {
