@@ -112,19 +112,3 @@ button {
   margin-top: 20px;
   font-family: "Arial", sans-serif;
 }
-
-/* Ajustes para dispositivos móveis */
-@media (max-width: 480px) {
-  #calculator {
-    width: 90%; /* Ajusta a largura da calculadora para caber melhor na tela */
-  }
-
-  #display {
-    font-size: 20px; /* Reduz um pouco a fonte para caber melhor */
-  }
-
-  button {
-    padding: 15px; /* Ajusta o tamanho dos botões */
-    font-size: 16px; /* Diminui a fonte para manter o layout organizado */
-  }
-}
